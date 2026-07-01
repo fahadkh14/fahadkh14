@@ -10,7 +10,7 @@
 
 ![Python](https://skillicons.dev/icons?i=python)
 ![C](https://skillicons.dev/icons?i=c)
-![Bash](https://skillicons.dev/icons?i=bash)
+
 
 ### DevOps
 
