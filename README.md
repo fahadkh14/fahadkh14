@@ -22,12 +22,17 @@
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
 ![Terraform](https://skillicons.dev/icons?i=terraform)
 ![AWS](https://skillicons.dev/icons?i=aws)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=fahadkh14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=fahadkh14&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=fahadkh14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahadkh14&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadkh14E&layout=compact&theme=tokyonight)
 
 ---
-[![](https://komarev.com/ghpvc/?username=fahadkh14&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=fahadkh14&theme=tokyonight)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
