@@ -1,21 +1,9 @@
-# Hi 👋, I'm Fahad Khan
+# 💫 About Me:
+🔭 I’m currently working on DevOps, Docker, Kubernetes, CI/CD, Linux, AWS, and Terraform.<br><br>🤝 I’m looking to collaborate on Open Source DevOps, Cloud Infrastructure, and Automation projects.<br><br>🌱 I’m currently learning Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, and AWS.<br><br>💬 Ask me about Linux, Docker, Git, CI/CD, DevOps, and Cloud fundamentals.<br><br>⚡ Fun fact: I love automating repetitive tasks and turning manual processes into one-click deployments.
 
-## 🚀 DevOps Engineer | Linux | Docker | Git | CI/CD | AWS
 
-I'm currently learning DevOps through #90DaysOfDevOps and building real-world projects.
-
----
-
-# 🚀 About Me
-
-- 🌱 Currently learning Linux, Docker, Kubernetes & AWS
-- 🔭 Building DevOps projects every day
-- 💻 Passionate about Automation & Cloud
-- 📚 Learning in Public
-- ⚡ Goal: Become a DevOps Engineer
-
----
-
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/fahadkh14) 
 # 🛠 Tech Stack
 
 ### Languages
@@ -34,23 +22,12 @@ I'm currently learning DevOps through #90DaysOfDevOps and building real-world pr
 ![Jenkins](https://skillicons.dev/icons?i=jenkins)
 ![Terraform](https://skillicons.dev/icons?i=terraform)
 ![AWS](https://skillicons.dev/icons?i=aws)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=fahadkh14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=fahadkh14&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=fahadkh14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=fahadkh14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
----
-
-# 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
----
-
-## 📫 Connect with Me
-
-[LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
