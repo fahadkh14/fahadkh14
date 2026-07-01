@@ -1,3 +1,12 @@
+# Hi 👋, I'm Fahad Khan
+
+## 🚀 DevOps Engineer | Linux | Docker | Git | CI/CD | AWS
+
+🚀 Currently building hands-on DevOps projects and continuously improving my skills in Linux, Docker, CI/CD, Kubernetes, and Cloud technologies.
+
+---
+
+
 # 💫 About Me:
 🔭 I’m currently working on DevOps, Docker, Kubernetes, CI/CD, Linux, AWS, and Terraform.<br><br>🤝 I’m looking to collaborate on Open Source DevOps, Cloud Infrastructure, and Automation projects.<br><br>🌱 I’m currently learning Kubernetes, Jenkins, GitHub Actions, Terraform, Ansible, and AWS.<br><br>💬 Ask me about Linux, Docker, Git, CI/CD, DevOps, and Cloud fundamentals.<br><br>⚡ Fun fact: I love automating repetitive tasks and turning manual processes into one-click deployments.
 
