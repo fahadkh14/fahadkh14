@@ -26,13 +26,14 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fahadkh14&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadkh14E&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fahadkh14&layout=compact&theme=tokyonight)
 
 ---
 
 # 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=fahadkh14&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=fahadkh14&theme=tokyonight)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
