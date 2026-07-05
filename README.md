@@ -1,4 +1,6 @@
-# Hi 👋, I'm Fahad Khan
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C0A3&center=true&vCenter=true&width=1000&lines=Hey+There!+👋;I'm+Mohd+Fahad+Khan;Aspiring+DevOps+Engineer+⚙️;Linux+%7C+AWS+%7C+Docker+☁️;Kubernetes+%7C+Terraform+☸️;CI%2FCD+Automation+🚀;Cloud+Native+Engineer+🌍" />
+</h1>
 
 ## 🚀 DevOps Engineer | Linux | Docker | Git | CI/CD | AWS
 
