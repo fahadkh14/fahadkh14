@@ -58,9 +58,11 @@ DevOps Engineer • Linux • Docker • Kubernetes • AWS • Terraform
 
 <p align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=fahadkh14&show_icons=true&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.shion.dev/api?username=fahadkh14&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=fahadkh14&theme=dark&hide_border=false)<br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahadkh14&layout=compact&theme=tokyonight&hide_border=true"/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=fahadkh14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 </p>
 
