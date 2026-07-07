@@ -66,7 +66,7 @@ DevOps Engineer • Linux • Docker • Kubernetes • AWS • Terraform
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=fahadkh14&theme=tokyonight&hide_border=true"/>
+ <!-- img src="https://streak-stats.demolab.com?user=fahadkh14&theme=tokyonight&hide_border=true"/>  -->
 
 </p>
 
@@ -76,7 +76,7 @@ DevOps Engineer • Linux • Docker • Kubernetes • AWS • Terraform
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=fahadkh14&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=fahadkh14&theme=algolia&no-frame=true&margin-w=10"/> 
 
 </p>
 
