@@ -6,6 +6,9 @@
 
 🚀 Currently building hands-on DevOps projects and continuously improving my skills in Linux, Docker, CI/CD, Kubernetes, and Cloud technologies.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=fahadkh14&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 ---
 
 
